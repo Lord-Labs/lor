@@ -15,7 +15,7 @@ The page introduces LOR. to a developer or meeting organiser who has never seen 
 Within the first viewport they should understand the promise, see that the product is
 real, and choose one of two honest next steps:
 
-- **Try the live app** at [lor-bay.vercel.app](https://lor-bay.vercel.app).
+- **Try the live app** at [lor.lordlabs.tech](https://lor.lordlabs.tech).
 - **Read the product docs** at the local [`/docs`](/docs) hub.
 
 The public routes are `/about` for the Arabic default locale and `/en/about` for English
@@ -102,7 +102,7 @@ text description. No autoplay video or decorative motion is required.
 
 | Label | URL | Use |
 |---|---|---|
-| Try the live app | `https://lor-bay.vercel.app` | Primary CTA; opens the product launcher. |
+| Try the live app | `https://lor.lordlabs.tech` | Primary CTA; opens the product launcher. |
 | Product docs | `/docs` and `/en/docs` | Localized setup, workflow, boundaries, architecture, and contribution guide. |
 | Source guide | `/resources/source` | Local code map, with an explicit onward action to the repository. |
 | Setup guide | `/docs#quick-start` | Local development commands and configuration boundaries. |

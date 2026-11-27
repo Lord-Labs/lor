@@ -3,7 +3,7 @@
 LOR. is an Arabic-first, open-source video-meeting product: a person joins from a
 link with no account, then keeps the useful result of the meeting — a retained
 transcript and grounded decisions that return to their source evidence. The public
-demo is [live](https://lor-bay.vercel.app); the localized project story and setup are
+demo is [live](https://lor.lordlabs.tech); the localized project story and setup are
 available in the local [/docs](/docs) hub; the code, discussions, and issues live in
 the [repository](https://github.com/Lord-shaban/lor).
 

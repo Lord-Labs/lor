@@ -13,7 +13,7 @@
 [![CI](https://github.com/Lord-shaban/lor/actions/workflows/ci.yml/badge.svg)](https://github.com/Lord-shaban/lor/actions/workflows/ci.yml)
 [![Roadmap](https://img.shields.io/badge/roadmap-v0.0%20%E2%86%92%20v1.0-6366f1)](https://github.com/Lord-shaban/lor/milestones)
 
-[English](README.md) · [صفحة المشروع](https://lor-bay.vercel.app/about) · [الدوكس](https://lor-bay.vercel.app/docs) · [خريطة الطريق](#خريطة-الطريق) · [الاستضافة الذاتية](#الاستضافة-الذاتية) · [المساهمة](CONTRIBUTING.md) · [خريطة open-source](docs/open-source.ar.md)
+[English](README.md) · [صفحة المشروع](https://lor.lordlabs.tech/about) · [الدوكس](https://lor.lordlabs.tech/docs) · [خريطة الطريق](#خريطة-الطريق) · [الاستضافة الذاتية](#الاستضافة-الذاتية) · [المساهمة](CONTRIBUTING.md) · [خريطة open-source](docs/open-source.ar.md)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 > [!NOTE]
 > **الحالة: صدر الإصدار `v0.7.0`.** الإصدارات حتى `v0.7` متاحة على
-> [lor-bay.vercel.app](https://lor-bay.vercel.app). يمكنك بدء اجتماع أو الانضمام إليه
+> [lor.lordlabs.tech](https://lor.lordlabs.tech). يمكنك بدء اجتماع أو الانضمام إليه
 > برابط، والتعاون بالصوت والصورة والسبورة والملاحظات، والاحتفاظ بنصوص المحادثة
 > والقرارات المرتبطة بأدلتها وفق ضوابط الموافقة والحفظ. يعرض الخط الزمني والذاكرة
 > والبحث نتائج الاجتماعات السابقة عند الطلب داخل حدود الغرفة. تحسنت واجهة الدخول
@@ -273,14 +273,14 @@ Drizzle · Postgres.
 | الإصدار | الاسم | الحالة |
 |---|---|---|
 | `v0.0` | الأساس | **نزل** |
-| `v0.1` | المكالمة | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.1.5` | الكابشنز | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.1.8` | السبورة والتسجيل | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.2` | القرارات | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.3` | المهام | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.4` | الخط الزمني | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.5` | ذاكرة الاجتماعات | **نزل** — [شغّال](https://lor-bay.vercel.app) |
-| `v0.6` | البحث الدلالي | **نزل** — [شغّال](https://lor-bay.vercel.app) |
+| `v0.1` | المكالمة | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.1.5` | الكابشنز | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.1.8` | السبورة والتسجيل | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.2` | القرارات | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.3` | المهام | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.4` | الخط الزمني | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.5` | ذاكرة الاجتماعات | **نزل** — [شغّال](https://lor.lordlabs.tech) |
+| `v0.6` | البحث الدلالي | **نزل** — [شغّال](https://lor.lordlabs.tech) |
 | `v0.7` | إطلاق المشروع المفتوح وتحسين تجربة المنتج | **صدر** — [تفاصيل الإصدار](CHANGELOG.md) |
 | `v0.8` | التكاملات | مخطط |
 | `v0.9` | التقوية والاستضافة الذاتية | مخطط |

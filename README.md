@@ -14,7 +14,7 @@ No account. No time limit. No download.
 [![Roadmap](https://img.shields.io/badge/roadmap-v0.0%20%E2%86%92%20v1.0-6366f1)](https://github.com/Lord-shaban/lor/milestones)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[العربية](README.ar.md) · [Project page](https://lor-bay.vercel.app/en/about) · [Docs](https://lor-bay.vercel.app/en/docs) · [Roadmap](#roadmap) · [Self-hosting](#self-hosting) · [Contributing](CONTRIBUTING.md) · [Open-source map](docs/open-source.md)
+[العربية](README.ar.md) · [Project page](https://lor.lordlabs.tech/en/about) · [Docs](https://lor.lordlabs.tech/en/docs) · [Roadmap](#roadmap) · [Self-hosting](#self-hosting) · [Contributing](CONTRIBUTING.md) · [Open-source map](docs/open-source.md)
 
 </div>
 
@@ -22,7 +22,7 @@ No account. No time limit. No download.
 
 > [!NOTE]
 > **Status: v0.7.0 is shipped.** Releases through `v0.7` are available at
-> [lor-bay.vercel.app](https://lor-bay.vercel.app): open a
+> [lor.lordlabs.tech](https://lor.lordlabs.tech): open a
 > link, type a name, hold a real meeting with mixed Arabic/English captions, record
 > locally, work together on a shared board or note, confirm decisions against their
 > exact transcript evidence, and turn clear commitments into assigned work that returns
@@ -295,14 +295,14 @@ Drizzle · Postgres.
 | Release | Name | Status |
 |---|---|---|
 | `v0.0` | Foundation | **shipped** |
-| `v0.1` | The Call | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.1.5` | Captions | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.1.8` | Canvas | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.2` | Decisions | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.3` | Action items | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.4` | Meeting timeline | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.5` | Meeting memory | **shipped** — [live](https://lor-bay.vercel.app) |
-| `v0.6` | Semantic search | **shipped** — [live](https://lor-bay.vercel.app) |
+| `v0.1` | The Call | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.1.5` | Captions | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.1.8` | Canvas | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.2` | Decisions | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.3` | Action items | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.4` | Meeting timeline | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.5` | Meeting memory | **shipped** — [live](https://lor.lordlabs.tech) |
+| `v0.6` | Semantic search | **shipped** — [live](https://lor.lordlabs.tech) |
 | `v0.7` | Open-source launch and product experience | **shipped** — [release notes](CHANGELOG.md) |
 | `v0.8` | Integrations | planned |
 | `v0.9` | Hardening and self-hosting | planned |
