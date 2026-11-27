@@ -329,7 +329,7 @@ GitHub is authoritative — issues, milestones, and the
 [board](https://github.com/users/Lord-shaban/projects/8). Update this when a release
 closes.
 
-**Live:** <https://lor-bay.vercel.app>. The project deploys on every push to
+**Live:** <https://lor.lordlabs.tech>. The project deploys on every push to
 `main`; `v0.7` adds the public product experience and documentation to the
 previously shipped meeting and Semantic search features.
 
